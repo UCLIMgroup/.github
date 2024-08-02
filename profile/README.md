@@ -14,8 +14,8 @@ For applications in engineering and architecture - to support research, practiti
 ## UCLIM - Repository & Toolkit
 -UCLIM_data_structure (work in process)
 
--UCLIM_CWS_extraction (work in process)
-
+-UCLIM_CWS_extraction_netatmo (work in process)
+-UCLIM_CWS_extraction_wunderground (work in process)
 
 
 <!--
