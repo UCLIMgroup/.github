@@ -4,6 +4,7 @@ For applications in engineering and architecture - to support research, practiti
 
 # Coordinators: 
 -Jesus Lizana, Associate Professor, University of Oxford
+
 -Miguel Nuñez-Peiro, Assistant Professor, Technical University of Madrid
 
 
