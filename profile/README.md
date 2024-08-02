@@ -2,11 +2,14 @@
 Working group developing tools using citizen weather data to understand, monitor and shape the future of urban climate.
 For applications in engineering and architecture - to support research, practitioners and policymaking.
 
-Coordinators: 
+#Coordinators: 
+
 Jesus Lizana, Associate Professor, University of Oxford
 Miguel Nuñez-Peiro, Assistant Professor, Technical University of Madrid
 
-Team: 
+
+#Team: 
+
 Rohan Agrawal, University of Oxford
 
 
