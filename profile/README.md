@@ -4,7 +4,9 @@ For applications in engineering and architecture - to support research, practiti
 
 ### Team: 
 -Jesus Lizana, Associate Professor, University of Oxford
+
 -Miguel Nuñez-Peiro, Assistant Professor, Technical University of Madrid
+
 -Rohan Agrawal, University of Oxford
 
 ## UCLIM - Repository & Toolkit
