@@ -3,9 +3,9 @@ Working group developing tools using citizen weather data to understand, monitor
 For applications in engineering and architecture - to support research, practitioners, and policymaking.
 
 ### Team: 
--Jesus Lizana, Associate Professor, University of Oxford
+-Jesus Lizana, Associate Professor, University of Oxford (coordinator)
 
--Miguel Nuñez-Peiro, Assistant Professor, Technical University of Madrid
+-Miguel Nuñez-Peiro, Assistant Professor, Technical University of Madrid (coordinator)
 
 -Rohan Agrawal, University of Oxford
 
