@@ -1,6 +1,6 @@
 # UCLIM - Urban CLImate working group
 Working group developing tools using citizen weather data to understand, monitor and shape the future of urban climate.
-For applications in engineering and architecture - to support research, practitioners and policymaking.
+For applications in engineering and architecture - to support research, practitioners, and policymaking.
 
 ### Coordinators: 
 -Jesus Lizana, Associate Professor, University of Oxford
