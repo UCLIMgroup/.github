@@ -10,11 +10,11 @@ For applications in engineering and architecture - to support research, practiti
 -Rohan Agrawal, DPhil student, University of Oxford
 
 ## UCLIM - Repository & Toolkit
--UCLIM_data_structure (work in process)
+-UCLIM0_data_directory_structure (done!)
 
--UCLIM_extraction_climate_CWS (work in process)
+-UCLIM1_extraction_climate_CWS (work in process)
 
--UCLIM_extraction_climate_ERA5 (work in process)
+-UCLIM1_extraction_climate_ERA5 (to iniciate)
 
 
 <!--
