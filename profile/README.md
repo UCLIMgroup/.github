@@ -12,7 +12,7 @@ For applications in engineering and architecture - to support research, practiti
 ## UCLIM - Repository & Toolkit
 -UCLIM0_data_directory_structure (done!)
 
--UCLIM1_extraction_climate_CWS (work in process)
+-UCLIM1_extraction_climate_CWS (done!)
 
 -UCLIM1_extraction_climate_ERA5 (to iniciate)
 
