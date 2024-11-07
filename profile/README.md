@@ -5,9 +5,11 @@ For applications in engineering and architecture - to support research, practiti
 ### Team: 
 -Jesus Lizana, Associate Professor, University of Oxford (coordinator)
 
--Miguel Nuñez-Peiro, Assistant Professor, Technical University of Madrid (coordinator)
+-Miguel Núñez-Peiró, Assistant Professor, Universidad Politécnica de Madrid (coordinator)
 
 -Rohan Agrawal, DPhil student, University of Oxford
+
+-Patricia San Nicolás-Vargas, Researcher, Universidad Politécnica de Madrid
 
 ## UCLIM - Repository & Toolkit
 -UCLIM0_data_directory_structure (done!)
@@ -15,6 +17,8 @@ For applications in engineering and architecture - to support research, practiti
 -UCLIM1_extraction_climate_CWS (done!)
 
 -UCLIM1_extraction_climate_ERA5 (to iniciate)
+
+-UCLIM2_pre-processing (ongoing)
 
 
 <!--
